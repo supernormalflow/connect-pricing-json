@@ -1,0 +1,1687 @@
+{
+        "AUD" : [ 
+            {
+                "subscribersMin" : 0.0,
+                "subscribersMax" : 499.0,
+                "monthlyFee" : 9.0,
+                "emailFee" : 0.00767,
+                "emailsIncluded" : 1000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 500.0,
+                "subscribersMax" : 999.0,
+                "monthlyFee" : 17.0,
+                "emailFee" : 0.00736,
+                "emailsIncluded" : 2000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 1000.0,
+                "subscribersMax" : 1999.0,
+                "monthlyFee" : 32.0,
+                "emailFee" : 0.00683,
+                "emailsIncluded" : 4000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 2000.0,
+                "subscribersMax" : 2999.0,
+                "monthlyFee" : 57.0,
+                "emailFee" : 0.006,
+                "emailsIncluded" : 8000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 3000.0,
+                "subscribersMax" : 4999.0,
+                "monthlyFee" : 78.0,
+                "emailFee" : 0.00538,
+                "emailsIncluded" : 12000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 5000.0,
+                "subscribersMax" : 7499.0,
+                "monthlyFee" : 111.0,
+                "emailFee" : 0.0045,
+                "emailsIncluded" : 20000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 7500.0,
+                "subscribersMax" : 9999.0,
+                "monthlyFee" : 143.0,
+                "emailFee" : 0.0038,
+                "emailsIncluded" : 30000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 10000.0,
+                "subscribersMax" : 12499.0,
+                "monthlyFee" : 169.0,
+                "emailFee" : 0.00333,
+                "emailsIncluded" : 40000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 12500.0,
+                "subscribersMax" : 14999.0,
+                "monthlyFee" : 191.0,
+                "emailFee" : 0.003,
+                "emailsIncluded" : 50000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 15000.0,
+                "subscribersMax" : 19999.0,
+                "monthlyFee" : 211.0,
+                "emailFee" : 0.00275,
+                "emailsIncluded" : 60000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 20000.0,
+                "subscribersMax" : 24999.0,
+                "monthlyFee" : 247.0,
+                "emailFee" : 0.0024,
+                "emailsIncluded" : 80000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 25000.0,
+                "subscribersMax" : 29999.0,
+                "monthlyFee" : 278.0,
+                "emailFee" : 0.00217,
+                "emailsIncluded" : 100000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 30000.0,
+                "subscribersMax" : 34999.0,
+                "monthlyFee" : 307.0,
+                "emailFee" : 0.002,
+                "emailsIncluded" : 120000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 35000.0,
+                "subscribersMax" : 39999.0,
+                "monthlyFee" : 335.0,
+                "emailFee" : 0.00188,
+                "emailsIncluded" : 140000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 40000.0,
+                "subscribersMax" : 44999.0,
+                "monthlyFee" : 361.0,
+                "emailFee" : 0.00178,
+                "emailsIncluded" : 160000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 45000.0,
+                "subscribersMax" : 49999.0,
+                "monthlyFee" : 386.0,
+                "emailFee" : 0.0017,
+                "emailsIncluded" : 180000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 50000.0,
+                "subscribersMax" : 59999.0,
+                "monthlyFee" : 411.0,
+                "emailFee" : 0.00164,
+                "emailsIncluded" : 200000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 60000.0,
+                "subscribersMax" : 69999.0,
+                "monthlyFee" : 460.0,
+                "emailFee" : 0.00154,
+                "emailsIncluded" : 240000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 70000.0,
+                "subscribersMax" : 79999.0,
+                "monthlyFee" : 506.0,
+                "emailFee" : 0.00147,
+                "emailsIncluded" : 280000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 80000.0,
+                "subscribersMax" : 89999.0,
+                "monthlyFee" : 553.0,
+                "emailFee" : 0.00141,
+                "emailsIncluded" : 320000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 90000.0,
+                "subscribersMax" : 99999.0,
+                "monthlyFee" : 598.0,
+                "emailFee" : 0.00137,
+                "emailsIncluded" : 360000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 100000.0,
+                "subscribersMax" : 124999.0,
+                "monthlyFee" : 643.0,
+                "emailFee" : 0.00133,
+                "emailsIncluded" : 400000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 125000.0,
+                "subscribersMax" : 149999.0,
+                "monthlyFee" : 754.0,
+                "emailFee" : 0.00127,
+                "emailsIncluded" : 500000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 150000.0,
+                "subscribersMax" : 174999.0,
+                "monthlyFee" : 864.0,
+                "emailFee" : 0.00123,
+                "emailsIncluded" : 600000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 175000.0,
+                "subscribersMax" : 199999.0,
+                "monthlyFee" : 973.0,
+                "emailFee" : 0.00119,
+                "emailsIncluded" : 700000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 200000.0,
+                "subscribersMax" : 249999.0,
+                "monthlyFee" : 1082.0,
+                "emailFee" : 0.00117,
+                "emailsIncluded" : 800000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 250000.0,
+                "subscribersMax" : 299999.0,
+                "monthlyFee" : 1298.0,
+                "emailFee" : 0.00114,
+                "emailsIncluded" : 1000000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 300000.0,
+                "subscribersMax" : 349999.0,
+                "monthlyFee" : 1514.0,
+                "emailFee" : 0.00111,
+                "emailsIncluded" : 1200000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 350000.0,
+                "subscribersMax" : 399999.0,
+                "monthlyFee" : 1729.0,
+                "emailFee" : 0.0011,
+                "emailsIncluded" : 1400000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 400000.0,
+                "subscribersMax" : 449999.0,
+                "monthlyFee" : 1944.0,
+                "emailFee" : 0.00109,
+                "emailsIncluded" : 1600000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 450000.0,
+                "subscribersMax" : 499999.0,
+                "monthlyFee" : 2158.0,
+                "emailFee" : 0.00108,
+                "emailsIncluded" : 1800000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 500000.0,
+                "subscribersMax" : 549999.0,
+                "monthlyFee" : 2373.0,
+                "emailFee" : 0.00107,
+                "emailsIncluded" : 2000000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 550000.0,
+                "subscribersMax" : 599999.0,
+                "monthlyFee" : 2587.0,
+                "emailFee" : 0.00106,
+                "emailsIncluded" : 2200000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 600000.0,
+                "subscribersMax" : 649999.0,
+                "monthlyFee" : 2802.0,
+                "emailFee" : 0.00106,
+                "emailsIncluded" : 2400000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 650000.0,
+                "subscribersMax" : 699999.0,
+                "monthlyFee" : 3016.0,
+                "emailFee" : 0.00105,
+                "emailsIncluded" : 2600000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 700000.0,
+                "subscribersMax" : 749999.0,
+                "monthlyFee" : 3230.0,
+                "emailFee" : 0.00105,
+                "emailsIncluded" : 2800000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 750000.0,
+                "subscribersMax" : 799999.0,
+                "monthlyFee" : 3445.0,
+                "emailFee" : 0.00105,
+                "emailsIncluded" : 3000000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 800000.0,
+                "subscribersMax" : 849999.0,
+                "monthlyFee" : 3659.0,
+                "emailFee" : 0.00104,
+                "emailsIncluded" : 3200000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 850000.0,
+                "subscribersMax" : 899999.0,
+                "monthlyFee" : 3873.0,
+                "emailFee" : 0.00104,
+                "emailsIncluded" : 3400000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 900000.0,
+                "subscribersMax" : 949999.0,
+                "monthlyFee" : 4087.0,
+                "emailFee" : 0.00104,
+                "emailsIncluded" : 3600000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 950000.0,
+                "subscribersMax" : 999999.0,
+                "monthlyFee" : 4301.0,
+                "emailFee" : 0.00104,
+                "emailsIncluded" : 3800000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 1000000.0,
+                "monthlyFee" : 4515.0,
+                "emailFee" : 0.00103,
+                "emailsIncluded" : 4000000.0,
+                "unlimitedEmails" : false
+            }
+        ],
+        "USD" : [ 
+            {
+                "subscribersMin" : 0.0,
+                "subscribersMax" : 499.0,
+                "monthlyFee" : 7.0,
+                "emailFee" : 0.00575,
+                "emailsIncluded" : 1000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 500.0,
+                "subscribersMax" : 999.0,
+                "monthlyFee" : 13.0,
+                "emailFee" : 0.00552,
+                "emailsIncluded" : 2000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 1000.0,
+                "subscribersMax" : 1999.0,
+                "monthlyFee" : 24.0,
+                "emailFee" : 0.00513,
+                "emailsIncluded" : 4000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 2000.0,
+                "subscribersMax" : 2999.0,
+                "monthlyFee" : 43.0,
+                "emailFee" : 0.0045,
+                "emailsIncluded" : 8000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 3000.0,
+                "subscribersMax" : 4999.0,
+                "monthlyFee" : 59.0,
+                "emailFee" : 0.00403,
+                "emailsIncluded" : 12000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 5000.0,
+                "subscribersMax" : 7499.0,
+                "monthlyFee" : 83.0,
+                "emailFee" : 0.00338,
+                "emailsIncluded" : 20000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 7500.0,
+                "subscribersMax" : 9999.0,
+                "monthlyFee" : 107.0,
+                "emailFee" : 0.00285,
+                "emailsIncluded" : 30000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 10000.0,
+                "subscribersMax" : 12499.0,
+                "monthlyFee" : 127.0,
+                "emailFee" : 0.0025,
+                "emailsIncluded" : 40000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 12500.0,
+                "subscribersMax" : 14999.0,
+                "monthlyFee" : 143.0,
+                "emailFee" : 0.00225,
+                "emailsIncluded" : 50000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 15000.0,
+                "subscribersMax" : 19999.0,
+                "monthlyFee" : 158.0,
+                "emailFee" : 0.00206,
+                "emailsIncluded" : 60000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 20000.0,
+                "subscribersMax" : 24999.0,
+                "monthlyFee" : 185.0,
+                "emailFee" : 0.0018,
+                "emailsIncluded" : 80000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 25000.0,
+                "subscribersMax" : 29999.0,
+                "monthlyFee" : 209.0,
+                "emailFee" : 0.00163,
+                "emailsIncluded" : 100000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 30000.0,
+                "subscribersMax" : 34999.0,
+                "monthlyFee" : 230.0,
+                "emailFee" : 0.0015,
+                "emailsIncluded" : 120000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 35000.0,
+                "subscribersMax" : 39999.0,
+                "monthlyFee" : 251.0,
+                "emailFee" : 0.00141,
+                "emailsIncluded" : 140000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 40000.0,
+                "subscribersMax" : 44999.0,
+                "monthlyFee" : 271.0,
+                "emailFee" : 0.00133,
+                "emailsIncluded" : 160000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 45000.0,
+                "subscribersMax" : 49999.0,
+                "monthlyFee" : 290.0,
+                "emailFee" : 0.00128,
+                "emailsIncluded" : 180000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 50000.0,
+                "subscribersMax" : 59999.0,
+                "monthlyFee" : 308.0,
+                "emailFee" : 0.00123,
+                "emailsIncluded" : 200000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 60000.0,
+                "subscribersMax" : 69999.0,
+                "monthlyFee" : 345.0,
+                "emailFee" : 0.00115,
+                "emailsIncluded" : 240000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 70000.0,
+                "subscribersMax" : 79999.0,
+                "monthlyFee" : 380.0,
+                "emailFee" : 0.0011,
+                "emailsIncluded" : 280000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 80000.0,
+                "subscribersMax" : 89999.0,
+                "monthlyFee" : 414.0,
+                "emailFee" : 0.00106,
+                "emailsIncluded" : 320000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 90000.0,
+                "subscribersMax" : 99999.0,
+                "monthlyFee" : 449.0,
+                "emailFee" : 0.00103,
+                "emailsIncluded" : 360000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 100000.0,
+                "subscribersMax" : 124999.0,
+                "monthlyFee" : 482.0,
+                "emailFee" : 0.001,
+                "emailsIncluded" : 400000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 125000.0,
+                "subscribersMax" : 149999.0,
+                "monthlyFee" : 566.0,
+                "emailFee" : 0.00095,
+                "emailsIncluded" : 500000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 150000.0,
+                "subscribersMax" : 174999.0,
+                "monthlyFee" : 648.0,
+                "emailFee" : 0.00092,
+                "emailsIncluded" : 600000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 175000.0,
+                "subscribersMax" : 199999.0,
+                "monthlyFee" : 730.0,
+                "emailFee" : 0.0009,
+                "emailsIncluded" : 700000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 200000.0,
+                "subscribersMax" : 249999.0,
+                "monthlyFee" : 811.0,
+                "emailFee" : 0.00088,
+                "emailsIncluded" : 800000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 250000.0,
+                "subscribersMax" : 299999.0,
+                "monthlyFee" : 973.0,
+                "emailFee" : 0.00085,
+                "emailsIncluded" : 1000000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 300000.0,
+                "subscribersMax" : 349999.0,
+                "monthlyFee" : 1135.0,
+                "emailFee" : 0.00084,
+                "emailsIncluded" : 1200000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 350000.0,
+                "subscribersMax" : 399999.0,
+                "monthlyFee" : 1297.0,
+                "emailFee" : 0.00082,
+                "emailsIncluded" : 1400000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 400000.0,
+                "subscribersMax" : 449999.0,
+                "monthlyFee" : 1458.0,
+                "emailFee" : 0.00081,
+                "emailsIncluded" : 1600000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 450000.0,
+                "subscribersMax" : 499999.0,
+                "monthlyFee" : 1619.0,
+                "emailFee" : 0.00081,
+                "emailsIncluded" : 1800000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 500000.0,
+                "subscribersMax" : 549999.0,
+                "monthlyFee" : 1780.0,
+                "emailFee" : 0.0008,
+                "emailsIncluded" : 2000000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 550000.0,
+                "subscribersMax" : 599999.0,
+                "monthlyFee" : 1940.0,
+                "emailFee" : 0.0008,
+                "emailsIncluded" : 2200000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 600000.0,
+                "subscribersMax" : 649999.0,
+                "monthlyFee" : 2101.0,
+                "emailFee" : 0.00079,
+                "emailsIncluded" : 2400000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 650000.0,
+                "subscribersMax" : 699999.0,
+                "monthlyFee" : 2262.0,
+                "emailFee" : 0.00079,
+                "emailsIncluded" : 2600000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 700000.0,
+                "subscribersMax" : 749999.0,
+                "monthlyFee" : 2423.0,
+                "emailFee" : 0.00079,
+                "emailsIncluded" : 2800000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 750000.0,
+                "subscribersMax" : 799999.0,
+                "monthlyFee" : 2583.0,
+                "emailFee" : 0.00078,
+                "emailsIncluded" : 3000000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 800000.0,
+                "subscribersMax" : 849999.0,
+                "monthlyFee" : 2744.0,
+                "emailFee" : 0.00078,
+                "emailsIncluded" : 3200000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 850000.0,
+                "subscribersMax" : 899999.0,
+                "monthlyFee" : 2905.0,
+                "emailFee" : 0.00078,
+                "emailsIncluded" : 3400000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 900000.0,
+                "subscribersMax" : 949999.0,
+                "monthlyFee" : 3065.0,
+                "emailFee" : 0.00078,
+                "emailsIncluded" : 3600000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 950000.0,
+                "subscribersMax" : 999999.0,
+                "monthlyFee" : 3226.0,
+                "emailFee" : 0.00078,
+                "emailsIncluded" : 3800000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 1000000.0,
+                "monthlyFee" : 3387.0,
+                "emailFee" : 0.00078,
+                "emailsIncluded" : 4000000.0,
+                "unlimitedEmails" : false
+            }
+        ],
+        "GBP" : [ 
+            {
+                "subscribersMin" : 0.0,
+                "subscribersMax" : 499.0,
+                "monthlyFee" : 5.0,
+                "emailFee" : 0.0046,
+                "emailsIncluded" : 1000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 500.0,
+                "subscribersMax" : 999.0,
+                "monthlyFee" : 10.0,
+                "emailFee" : 0.00442,
+                "emailsIncluded" : 2000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 1000.0,
+                "subscribersMax" : 1999.0,
+                "monthlyFee" : 19.0,
+                "emailFee" : 0.0041,
+                "emailsIncluded" : 4000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 2000.0,
+                "subscribersMax" : 2999.0,
+                "monthlyFee" : 34.0,
+                "emailFee" : 0.0036,
+                "emailsIncluded" : 8000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 3000.0,
+                "subscribersMax" : 4999.0,
+                "monthlyFee" : 47.0,
+                "emailFee" : 0.00323,
+                "emailsIncluded" : 12000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 5000.0,
+                "subscribersMax" : 7499.0,
+                "monthlyFee" : 67.0,
+                "emailFee" : 0.0027,
+                "emailsIncluded" : 20000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 7500.0,
+                "subscribersMax" : 9999.0,
+                "monthlyFee" : 86.0,
+                "emailFee" : 0.00228,
+                "emailsIncluded" : 30000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 10000.0,
+                "subscribersMax" : 12499.0,
+                "monthlyFee" : 101.0,
+                "emailFee" : 0.002,
+                "emailsIncluded" : 40000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 12500.0,
+                "subscribersMax" : 14999.0,
+                "monthlyFee" : 115.0,
+                "emailFee" : 0.0018,
+                "emailsIncluded" : 50000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 15000.0,
+                "subscribersMax" : 19999.0,
+                "monthlyFee" : 127.0,
+                "emailFee" : 0.00165,
+                "emailsIncluded" : 60000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 20000.0,
+                "subscribersMax" : 24999.0,
+                "monthlyFee" : 148.0,
+                "emailFee" : 0.00144,
+                "emailsIncluded" : 80000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 25000.0,
+                "subscribersMax" : 29999.0,
+                "monthlyFee" : 167.0,
+                "emailFee" : 0.0013,
+                "emailsIncluded" : 100000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 30000.0,
+                "subscribersMax" : 34999.0,
+                "monthlyFee" : 184.0,
+                "emailFee" : 0.0012,
+                "emailsIncluded" : 120000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 35000.0,
+                "subscribersMax" : 39999.0,
+                "monthlyFee" : 201.0,
+                "emailFee" : 0.00113,
+                "emailsIncluded" : 140000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 40000.0,
+                "subscribersMax" : 44999.0,
+                "monthlyFee" : 217.0,
+                "emailFee" : 0.00107,
+                "emailsIncluded" : 160000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 45000.0,
+                "subscribersMax" : 49999.0,
+                "monthlyFee" : 232.0,
+                "emailFee" : 0.00102,
+                "emailsIncluded" : 180000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 50000.0,
+                "subscribersMax" : 59999.0,
+                "monthlyFee" : 247.0,
+                "emailFee" : 0.00098,
+                "emailsIncluded" : 200000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 60000.0,
+                "subscribersMax" : 69999.0,
+                "monthlyFee" : 276.0,
+                "emailFee" : 0.00092,
+                "emailsIncluded" : 240000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 70000.0,
+                "subscribersMax" : 79999.0,
+                "monthlyFee" : 304.0,
+                "emailFee" : 0.00088,
+                "emailsIncluded" : 280000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 80000.0,
+                "subscribersMax" : 89999.0,
+                "monthlyFee" : 332.0,
+                "emailFee" : 0.00085,
+                "emailsIncluded" : 320000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 90000.0,
+                "subscribersMax" : 99999.0,
+                "monthlyFee" : 359.0,
+                "emailFee" : 0.00082,
+                "emailsIncluded" : 360000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 100000.0,
+                "subscribersMax" : 124999.0,
+                "monthlyFee" : 386.0,
+                "emailFee" : 0.0008,
+                "emailsIncluded" : 400000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 125000.0,
+                "subscribersMax" : 149999.0,
+                "monthlyFee" : 452.0,
+                "emailFee" : 0.00076,
+                "emailsIncluded" : 500000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 150000.0,
+                "subscribersMax" : 174999.0,
+                "monthlyFee" : 518.0,
+                "emailFee" : 0.00074,
+                "emailsIncluded" : 600000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 175000.0,
+                "subscribersMax" : 199999.0,
+                "monthlyFee" : 584.0,
+                "emailFee" : 0.00072,
+                "emailsIncluded" : 700000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 200000.0,
+                "subscribersMax" : 249999.0,
+                "monthlyFee" : 649.0,
+                "emailFee" : 0.0007,
+                "emailsIncluded" : 800000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 250000.0,
+                "subscribersMax" : 299999.0,
+                "monthlyFee" : 779.0,
+                "emailFee" : 0.00068,
+                "emailsIncluded" : 1000000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 300000.0,
+                "subscribersMax" : 349999.0,
+                "monthlyFee" : 908.0,
+                "emailFee" : 0.00067,
+                "emailsIncluded" : 1200000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 350000.0,
+                "subscribersMax" : 399999.0,
+                "monthlyFee" : 1037.0,
+                "emailFee" : 0.00066,
+                "emailsIncluded" : 1400000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 400000.0,
+                "subscribersMax" : 449999.0,
+                "monthlyFee" : 1166.0,
+                "emailFee" : 0.00065,
+                "emailsIncluded" : 1600000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 450000.0,
+                "subscribersMax" : 499999.0,
+                "monthlyFee" : 1295.0,
+                "emailFee" : 0.00065,
+                "emailsIncluded" : 1800000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 500000.0,
+                "subscribersMax" : 549999.0,
+                "monthlyFee" : 1424.0,
+                "emailFee" : 0.00064,
+                "emailsIncluded" : 2000000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 550000.0,
+                "subscribersMax" : 599999.0,
+                "monthlyFee" : 1552.0,
+                "emailFee" : 0.00064,
+                "emailsIncluded" : 2200000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 600000.0,
+                "subscribersMax" : 649999.0,
+                "monthlyFee" : 1681.0,
+                "emailFee" : 0.00063,
+                "emailsIncluded" : 2400000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 650000.0,
+                "subscribersMax" : 699999.0,
+                "monthlyFee" : 1810.0,
+                "emailFee" : 0.00063,
+                "emailsIncluded" : 2600000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 700000.0,
+                "subscribersMax" : 749999.0,
+                "monthlyFee" : 1938.0,
+                "emailFee" : 0.00063,
+                "emailsIncluded" : 2800000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 750000.0,
+                "subscribersMax" : 799999.0,
+                "monthlyFee" : 2067.0,
+                "emailFee" : 0.00063,
+                "emailsIncluded" : 3000000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 800000.0,
+                "subscribersMax" : 849999.0,
+                "monthlyFee" : 2195.0,
+                "emailFee" : 0.00063,
+                "emailsIncluded" : 3200000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 850000.0,
+                "subscribersMax" : 899999.0,
+                "monthlyFee" : 2324.0,
+                "emailFee" : 0.00062,
+                "emailsIncluded" : 3400000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 900000.0,
+                "subscribersMax" : 949999.0,
+                "monthlyFee" : 2452.0,
+                "emailFee" : 0.00062,
+                "emailsIncluded" : 3600000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 950000.0,
+                "subscribersMax" : 999999.0,
+                "monthlyFee" : 2581.0,
+                "emailFee" : 0.00062,
+                "emailsIncluded" : 3800000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 1000000.0,
+                "monthlyFee" : 2709.0,
+                "emailFee" : 0.00062,
+                "emailsIncluded" : 4000000.0,
+                "unlimitedEmails" : false
+            }
+        ],
+        "NZD" : [ 
+            {
+                "subscribersMin" : 0.0,
+                "subscribersMax" : 499.0,
+                "monthlyFee" : 9.0,
+                "emailFee" : 0.00805,
+                "emailsIncluded" : 1000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 500.0,
+                "subscribersMax" : 999.0,
+                "monthlyFee" : 18.0,
+                "emailFee" : 0.00773,
+                "emailsIncluded" : 2000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 1000.0,
+                "subscribersMax" : 1999.0,
+                "monthlyFee" : 34.0,
+                "emailFee" : 0.00718,
+                "emailsIncluded" : 4000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 2000.0,
+                "subscribersMax" : 2999.0,
+                "monthlyFee" : 60.0,
+                "emailFee" : 0.0063,
+                "emailsIncluded" : 8000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 3000.0,
+                "subscribersMax" : 4999.0,
+                "monthlyFee" : 82.0,
+                "emailFee" : 0.00564,
+                "emailsIncluded" : 12000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 5000.0,
+                "subscribersMax" : 7499.0,
+                "monthlyFee" : 117.0,
+                "emailFee" : 0.00473,
+                "emailsIncluded" : 20000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 7500.0,
+                "subscribersMax" : 9999.0,
+                "monthlyFee" : 150.0,
+                "emailFee" : 0.00399,
+                "emailsIncluded" : 30000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 10000.0,
+                "subscribersMax" : 12499.0,
+                "monthlyFee" : 177.0,
+                "emailFee" : 0.0035,
+                "emailsIncluded" : 40000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 12500.0,
+                "subscribersMax" : 14999.0,
+                "monthlyFee" : 201.0,
+                "emailFee" : 0.00315,
+                "emailsIncluded" : 50000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 15000.0,
+                "subscribersMax" : 19999.0,
+                "monthlyFee" : 222.0,
+                "emailFee" : 0.00289,
+                "emailsIncluded" : 60000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 20000.0,
+                "subscribersMax" : 24999.0,
+                "monthlyFee" : 259.0,
+                "emailFee" : 0.00252,
+                "emailsIncluded" : 80000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 25000.0,
+                "subscribersMax" : 29999.0,
+                "monthlyFee" : 292.0,
+                "emailFee" : 0.00228,
+                "emailsIncluded" : 100000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 30000.0,
+                "subscribersMax" : 34999.0,
+                "monthlyFee" : 323.0,
+                "emailFee" : 0.0021,
+                "emailsIncluded" : 120000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 35000.0,
+                "subscribersMax" : 39999.0,
+                "monthlyFee" : 351.0,
+                "emailFee" : 0.00197,
+                "emailsIncluded" : 140000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 40000.0,
+                "subscribersMax" : 44999.0,
+                "monthlyFee" : 379.0,
+                "emailFee" : 0.00187,
+                "emailsIncluded" : 160000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 45000.0,
+                "subscribersMax" : 49999.0,
+                "monthlyFee" : 406.0,
+                "emailFee" : 0.00179,
+                "emailsIncluded" : 180000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 50000.0,
+                "subscribersMax" : 59999.0,
+                "monthlyFee" : 432.0,
+                "emailFee" : 0.00172,
+                "emailsIncluded" : 200000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 60000.0,
+                "subscribersMax" : 69999.0,
+                "monthlyFee" : 483.0,
+                "emailFee" : 0.00162,
+                "emailsIncluded" : 240000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 70000.0,
+                "subscribersMax" : 79999.0,
+                "monthlyFee" : 532.0,
+                "emailFee" : 0.00154,
+                "emailsIncluded" : 280000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 80000.0,
+                "subscribersMax" : 89999.0,
+                "monthlyFee" : 580.0,
+                "emailFee" : 0.00148,
+                "emailsIncluded" : 320000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 90000.0,
+                "subscribersMax" : 99999.0,
+                "monthlyFee" : 628.0,
+                "emailFee" : 0.00144,
+                "emailsIncluded" : 360000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 100000.0,
+                "subscribersMax" : 124999.0,
+                "monthlyFee" : 675.0,
+                "emailFee" : 0.0014,
+                "emailsIncluded" : 400000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 125000.0,
+                "subscribersMax" : 149999.0,
+                "monthlyFee" : 792.0,
+                "emailFee" : 0.00133,
+                "emailsIncluded" : 500000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 150000.0,
+                "subscribersMax" : 174999.0,
+                "monthlyFee" : 907.0,
+                "emailFee" : 0.00129,
+                "emailsIncluded" : 600000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 175000.0,
+                "subscribersMax" : 199999.0,
+                "monthlyFee" : 1022.0,
+                "emailFee" : 0.00125,
+                "emailsIncluded" : 700000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 200000.0,
+                "subscribersMax" : 249999.0,
+                "monthlyFee" : 1136.0,
+                "emailFee" : 0.00123,
+                "emailsIncluded" : 800000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 250000.0,
+                "subscribersMax" : 299999.0,
+                "monthlyFee" : 1363.0,
+                "emailFee" : 0.00119,
+                "emailsIncluded" : 1000000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 300000.0,
+                "subscribersMax" : 349999.0,
+                "monthlyFee" : 1589.0,
+                "emailFee" : 0.00117,
+                "emailsIncluded" : 1200000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 350000.0,
+                "subscribersMax" : 399999.0,
+                "monthlyFee" : 1815.0,
+                "emailFee" : 0.00115,
+                "emailsIncluded" : 1400000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 400000.0,
+                "subscribersMax" : 449999.0,
+                "monthlyFee" : 2041.0,
+                "emailFee" : 0.00114,
+                "emailsIncluded" : 1600000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 450000.0,
+                "subscribersMax" : 499999.0,
+                "monthlyFee" : 2266.0,
+                "emailFee" : 0.00113,
+                "emailsIncluded" : 1800000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 500000.0,
+                "subscribersMax" : 549999.0,
+                "monthlyFee" : 2491.0,
+                "emailFee" : 0.00112,
+                "emailsIncluded" : 2000000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 550000.0,
+                "subscribersMax" : 599999.0,
+                "monthlyFee" : 2717.0,
+                "emailFee" : 0.00112,
+                "emailsIncluded" : 2200000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 600000.0,
+                "subscribersMax" : 649999.0,
+                "monthlyFee" : 2942.0,
+                "emailFee" : 0.00111,
+                "emailsIncluded" : 2400000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 650000.0,
+                "subscribersMax" : 699999.0,
+                "monthlyFee" : 3167.0,
+                "emailFee" : 0.00111,
+                "emailsIncluded" : 2600000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 700000.0,
+                "subscribersMax" : 749999.0,
+                "monthlyFee" : 3392.0,
+                "emailFee" : 0.0011,
+                "emailsIncluded" : 2800000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 750000.0,
+                "subscribersMax" : 799999.0,
+                "monthlyFee" : 3617.0,
+                "emailFee" : 0.0011,
+                "emailsIncluded" : 3000000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 800000.0,
+                "subscribersMax" : 849999.0,
+                "monthlyFee" : 3842.0,
+                "emailFee" : 0.0011,
+                "emailsIncluded" : 3200000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 850000.0,
+                "subscribersMax" : 899999.0,
+                "monthlyFee" : 4067.0,
+                "emailFee" : 0.00109,
+                "emailsIncluded" : 3400000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 900000.0,
+                "subscribersMax" : 949999.0,
+                "monthlyFee" : 4291.0,
+                "emailFee" : 0.00109,
+                "emailsIncluded" : 3600000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 950000.0,
+                "subscribersMax" : 999999.0,
+                "monthlyFee" : 4516.0,
+                "emailFee" : 0.00109,
+                "emailsIncluded" : 3800000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 1000000.0,
+                "monthlyFee" : 4741.0,
+                "emailFee" : 0.00109,
+                "emailsIncluded" : 4000000.0,
+                "unlimitedEmails" : false
+            }
+        ],
+        "EUR" : [ 
+            {
+                "subscribersMin" : 0.0,
+                "subscribersMax" : 499.0,
+                "monthlyFee" : 6.0,
+                "emailFee" : 0.00537,
+                "emailsIncluded" : 1000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 500.0,
+                "subscribersMax" : 999.0,
+                "monthlyFee" : 12.0,
+                "emailFee" : 0.00515,
+                "emailsIncluded" : 2000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 1000.0,
+                "subscribersMax" : 1999.0,
+                "monthlyFee" : 23.0,
+                "emailFee" : 0.00478,
+                "emailsIncluded" : 4000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 2000.0,
+                "subscribersMax" : 2999.0,
+                "monthlyFee" : 40.0,
+                "emailFee" : 0.0042,
+                "emailsIncluded" : 8000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 3000.0,
+                "subscribersMax" : 4999.0,
+                "monthlyFee" : 55.0,
+                "emailFee" : 0.00376,
+                "emailsIncluded" : 12000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 5000.0,
+                "subscribersMax" : 7499.0,
+                "monthlyFee" : 78.0,
+                "emailFee" : 0.00315,
+                "emailsIncluded" : 20000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 7500.0,
+                "subscribersMax" : 9999.0,
+                "monthlyFee" : 100.0,
+                "emailFee" : 0.00266,
+                "emailsIncluded" : 30000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 10000.0,
+                "subscribersMax" : 12499.0,
+                "monthlyFee" : 118.0,
+                "emailFee" : 0.00233,
+                "emailsIncluded" : 40000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 12500.0,
+                "subscribersMax" : 14999.0,
+                "monthlyFee" : 134.0,
+                "emailFee" : 0.0021,
+                "emailsIncluded" : 50000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 15000.0,
+                "subscribersMax" : 19999.0,
+                "monthlyFee" : 148.0,
+                "emailFee" : 0.00193,
+                "emailsIncluded" : 60000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 20000.0,
+                "subscribersMax" : 24999.0,
+                "monthlyFee" : 173.0,
+                "emailFee" : 0.00168,
+                "emailsIncluded" : 80000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 25000.0,
+                "subscribersMax" : 29999.0,
+                "monthlyFee" : 195.0,
+                "emailFee" : 0.00152,
+                "emailsIncluded" : 100000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 30000.0,
+                "subscribersMax" : 34999.0,
+                "monthlyFee" : 215.0,
+                "emailFee" : 0.0014,
+                "emailsIncluded" : 120000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 35000.0,
+                "subscribersMax" : 39999.0,
+                "monthlyFee" : 234.0,
+                "emailFee" : 0.00131,
+                "emailsIncluded" : 140000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 40000.0,
+                "subscribersMax" : 44999.0,
+                "monthlyFee" : 253.0,
+                "emailFee" : 0.00124,
+                "emailsIncluded" : 160000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 45000.0,
+                "subscribersMax" : 49999.0,
+                "monthlyFee" : 271.0,
+                "emailFee" : 0.00119,
+                "emailsIncluded" : 180000.0,
+                "unlimitedEmails" : true
+            }, 
+            {
+                "subscribersMin" : 50000.0,
+                "subscribersMax" : 59999.0,
+                "monthlyFee" : 288.0,
+                "emailFee" : 0.00115,
+                "emailsIncluded" : 200000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 60000.0,
+                "subscribersMax" : 69999.0,
+                "monthlyFee" : 322.0,
+                "emailFee" : 0.00108,
+                "emailsIncluded" : 240000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 70000.0,
+                "subscribersMax" : 79999.0,
+                "monthlyFee" : 355.0,
+                "emailFee" : 0.00103,
+                "emailsIncluded" : 280000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 80000.0,
+                "subscribersMax" : 89999.0,
+                "monthlyFee" : 387.0,
+                "emailFee" : 0.00099,
+                "emailsIncluded" : 320000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 90000.0,
+                "subscribersMax" : 99999.0,
+                "monthlyFee" : 419.0,
+                "emailFee" : 0.00096,
+                "emailsIncluded" : 360000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 100000.0,
+                "subscribersMax" : 124999.0,
+                "monthlyFee" : 450.0,
+                "emailFee" : 0.00093,
+                "emailsIncluded" : 400000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 125000.0,
+                "subscribersMax" : 149999.0,
+                "monthlyFee" : 528.0,
+                "emailFee" : 0.00089,
+                "emailsIncluded" : 500000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 150000.0,
+                "subscribersMax" : 174999.0,
+                "monthlyFee" : 605.0,
+                "emailFee" : 0.00086,
+                "emailsIncluded" : 600000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 175000.0,
+                "subscribersMax" : 199999.0,
+                "monthlyFee" : 681.0,
+                "emailFee" : 0.00084,
+                "emailsIncluded" : 700000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 200000.0,
+                "subscribersMax" : 249999.0,
+                "monthlyFee" : 757.0,
+                "emailFee" : 0.00082,
+                "emailsIncluded" : 800000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 250000.0,
+                "subscribersMax" : 299999.0,
+                "monthlyFee" : 909.0,
+                "emailFee" : 0.0008,
+                "emailsIncluded" : 1000000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 300000.0,
+                "subscribersMax" : 349999.0,
+                "monthlyFee" : 1060.0,
+                "emailFee" : 0.00078,
+                "emailsIncluded" : 1200000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 350000.0,
+                "subscribersMax" : 399999.0,
+                "monthlyFee" : 1210.0,
+                "emailFee" : 0.00077,
+                "emailsIncluded" : 1400000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 400000.0,
+                "subscribersMax" : 449999.0,
+                "monthlyFee" : 1361.0,
+                "emailFee" : 0.00076,
+                "emailsIncluded" : 1600000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 450000.0,
+                "subscribersMax" : 499999.0,
+                "monthlyFee" : 1511.0,
+                "emailFee" : 0.00075,
+                "emailsIncluded" : 1800000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 500000.0,
+                "subscribersMax" : 549999.0,
+                "monthlyFee" : 1661.0,
+                "emailFee" : 0.00075,
+                "emailsIncluded" : 2000000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 550000.0,
+                "subscribersMax" : 599999.0,
+                "monthlyFee" : 1811.0,
+                "emailFee" : 0.00074,
+                "emailsIncluded" : 2200000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 600000.0,
+                "subscribersMax" : 649999.0,
+                "monthlyFee" : 1961.0,
+                "emailFee" : 0.00074,
+                "emailsIncluded" : 2400000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 650000.0,
+                "subscribersMax" : 699999.0,
+                "monthlyFee" : 2111.0,
+                "emailFee" : 0.00074,
+                "emailsIncluded" : 2600000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 700000.0,
+                "subscribersMax" : 749999.0,
+                "monthlyFee" : 2261.0,
+                "emailFee" : 0.00073,
+                "emailsIncluded" : 2800000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 750000.0,
+                "subscribersMax" : 799999.0,
+                "monthlyFee" : 2411.0,
+                "emailFee" : 0.00073,
+                "emailsIncluded" : 3000000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 800000.0,
+                "subscribersMax" : 849999.0,
+                "monthlyFee" : 2561.0,
+                "emailFee" : 0.00073,
+                "emailsIncluded" : 3200000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 850000.0,
+                "subscribersMax" : 899999.0,
+                "monthlyFee" : 2711.0,
+                "emailFee" : 0.00073,
+                "emailsIncluded" : 3400000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 900000.0,
+                "subscribersMax" : 949999.0,
+                "monthlyFee" : 2861.0,
+                "emailFee" : 0.00073,
+                "emailsIncluded" : 3600000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 950000.0,
+                "subscribersMax" : 999999.0,
+                "monthlyFee" : 3011.0,
+                "emailFee" : 0.00073,
+                "emailsIncluded" : 3800000.0,
+                "unlimitedEmails" : false
+            }, 
+            {
+                "subscribersMin" : 1000000.0,
+                "monthlyFee" : 3161.0,
+                "emailFee" : 0.00072,
+                "emailsIncluded" : 4000000.0,
+                "unlimitedEmails" : false
+            }
+        ]
+    }
